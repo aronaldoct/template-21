@@ -1,0 +1,29 @@
+{
+    "name": "Fogoografias",
+    "short_name": "FT",
+    "description": "Fotos del mundo",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+          "src": "../img/pwa/fotografo.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+            "src": "../img/pwa/fotografo1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../img/pwa/fotografo2.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+  }
